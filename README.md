@@ -1,4 +1,4 @@
-# google-summer-of-code-2023
+# Google Summer of Code 2023
 
 ## [Organization: Red Hen Lab](https://www.redhenlab.org/home)
 ## Project Title:   Multimodal stance detection
