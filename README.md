@@ -1,4 +1,4 @@
-# Google Summer of Code 2023
+# Google Summer of Code Proposal 2023
 
 ## [Organization: Red Hen Lab](https://www.redhenlab.org/home)
 ## Project Title:   Multimodal stance detection
@@ -16,3 +16,6 @@ A news program may cover more than one story, but the stance may vary from story
 
 ### Project Summary
 In this project, I propose to develop a stance detection method for television news using multimodal data. I will focus on the topics of gun control, abortion, immigration, and covid/vaccination at the stance level, i.e., promoting, neutralizing, or debunking. I will use a combination of segmentation, annotation, feature extraction, and supervised and unsupervised models to perform stance detection. I will evaluate the performance of our models using standard evaluation metrics and analyze the impact of different features on the performance of the models. I will also address ethical considerations such as bias and fairness in our approach. The proposed method will provide valuable insights into the prevalence of biases in cable news networks
+
+### Update- 4th May,2023
+My proposal was not shortlisted :( . However I will still try to actively contribute to multimodal research & open-source projects in general!
