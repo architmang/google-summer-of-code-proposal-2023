@@ -19,3 +19,7 @@ In this project, I propose to develop a stance detection method for television n
 
 ### Update- 4th May,2023
 My proposal was not shortlisted :( . However I will still try to actively contribute to multimodal research & open-source projects in general!
+
+![image](https://github.com/architmang/google-summer-of-code-proposal-2023/assets/75172544/5456ef25-944b-489f-9140-5c4833dbc1ee)
+
+                           "“The only real mistake is the one from which we learn nothing.” - Henry Ford"
